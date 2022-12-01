@@ -1,4 +1,4 @@
-# Calendário da Copa
+# Landing Page - Balle Bot
 
 Projeto desenvolvido através de uma videoaula da Rafaella Ballerini para a construção de uma landing page.
 
